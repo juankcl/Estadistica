@@ -21,6 +21,7 @@ for i=1:num
     end
     if lanzar(i,1)==4
         band4=band4+1;
+        
     end
 end
 
